@@ -7,12 +7,13 @@ This project aims to analyze customer spending behavior using machine learning t
 
 ## Dataset
 
-The dataset contains customer transaction details with features like:
+The dataset contains customer details with features like:
 
-- Customer demographics
-- Purchase history
-- Seasonal trends
-- Product categories
+- Time on App	
+- Time on Website	
+- e mail
+- Length of Membership
+- Yearly Amount Spent (output feature)
 
 ## Steps Involved
 
